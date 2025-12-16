@@ -25,7 +25,7 @@
 ### [Querying - 資料查詢系統](./Querying)
 多格式資料查詢系統，支援CSV、XML和URL資料來源的篩選和查詢。
 
-### [Final_RandomSelecter - 隨機選擇器](./Final_RandomSelecter)
+### [Final_RandomSelecter - 隨機選擇器](https://github.com/tsz7250/1111_WebProgramming_Final)
 期末專題：校園美食隨機選擇器，具備用戶註冊、記帳功能和使用記錄追蹤。
 
 ## 🚀 快速開始
